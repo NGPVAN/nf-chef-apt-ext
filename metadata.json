@@ -1,0 +1,30 @@
+{
+  "replacing": {
+  },
+  "suggestions": {
+  },
+  "maintainer_email": "engineers@nationalfield.org",
+  "platforms": {
+    "ubuntu": ">= 0.0.0"
+  },
+  "description": "Additional resources to manipulate apt.",
+  "recipes": {
+  },
+  "long_description": "Adds support for:\n\n- apt-get update at the beginning of the execution\n",
+  "version": "0.0.1",
+  "name": "apt-ext",
+  "attributes": {
+  },
+  "license": "MIT",
+  "groupings": {
+  },
+  "dependencies": {
+  },
+  "providing": {
+  },
+  "conflicting": {
+  },
+  "recommendations": {
+  },
+  "maintainer": "NationalField"
+}
